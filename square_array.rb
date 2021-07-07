@@ -1,3 +1,4 @@
-def square_array(array)
-  # your code here
+colors = ([red, green, yellow])
+ colors.each do|color|
+ puts "i love #{color}!"
 end
